@@ -1,0 +1,6 @@
+.idea/
+.github/
+.vscode/
+src/
+.prettierrc
+tsconfig.json
